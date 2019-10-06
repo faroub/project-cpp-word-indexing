@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../lib/libWordIndexingLib.a  CMakeFiles/WordIndexingLib.dir/SearchThread.cpp.o CMakeFiles/WordIndexingLib.dir/SyncQueue.cpp.o CMakeFiles/WordIndexingLib.dir/WorkerThread.cpp.o
-/usr/bin/ranlib ../lib/libWordIndexingLib.a
