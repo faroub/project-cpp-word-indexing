@@ -1,0 +1,6 @@
+/home/faroub/Documents/development-projects/projects-c++/WordIndexing/build/CMakeFiles/rebuild_cache.dir
+/home/faroub/Documents/development-projects/projects-c++/WordIndexing/build/CMakeFiles/WordIndexing.dir
+/home/faroub/Documents/development-projects/projects-c++/WordIndexing/build/CMakeFiles/edit_cache.dir
+/home/faroub/Documents/development-projects/projects-c++/WordIndexing/build/src/CMakeFiles/rebuild_cache.dir
+/home/faroub/Documents/development-projects/projects-c++/WordIndexing/build/src/CMakeFiles/WordIndexingLib.dir
+/home/faroub/Documents/development-projects/projects-c++/WordIndexing/build/src/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/g++    -rdynamic CMakeFiles/WordIndexing.dir/app/main.cpp.o  -o bin/WordIndexing lib/libWordIndexingLib.a -lpthread 
