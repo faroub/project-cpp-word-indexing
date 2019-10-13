@@ -18,6 +18,6 @@ class SearchThread{
 		~SearchThread();
                 /* This searches .txt file in the directory and saves the result in queue*/ 
         void StartSearchTxtFiles(string);
-        static int callback(const char *fpath, const struct stat *sb, int typeflag);
+        static int callback(const char *fpath, const struct stat *sb, int typeflag , struct FTW *ftwbuf);
 };
 #endif  /*SEARCHTHREAD_H*/
